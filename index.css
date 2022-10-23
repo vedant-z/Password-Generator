@@ -21,6 +21,8 @@ p {
 .card {
     margin: 0 auto;
     float: none;
+    width: 35rem;
+    height: 30rem;
     margin-top: 6rem;
     background-color: #D3EEDD;
     box-shadow: 14px 14px 0 -4px #9CA39C, 14px 14px 0 0 black;
@@ -35,4 +37,11 @@ p {
 #btn1 {
     margin-top: 3.5rem;
     font-weight: bolder;
+}
+
+@media (max-width: 772px) {
+    .card {
+        width: 28rem;
+        height: 32rem;
+    }
 }

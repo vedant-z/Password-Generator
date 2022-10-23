@@ -1,0 +1,38 @@
+body {
+    font-family: 'Bungee Hairline', cursive;
+    background-color: #1c1c1c;
+}
+
+h3 {
+    font-size: 55px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1rem;
+    color: #1c1c1c;
+}
+
+p {
+    text-align: center;
+    margin-top: 1.5rem;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-top: 6rem;
+    background-color: #D3EEDD;
+    box-shadow: 14px 14px 0 -4px #9CA39C, 14px 14px 0 0 black;
+}
+
+#main {
+    margin-top: 3rem;
+    text-align: center;
+    font-weight: bolder;
+}
+
+#btn1 {
+    margin-top: 3.5rem;
+    font-weight: bolder;
+}
